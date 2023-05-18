@@ -1,0 +1,19 @@
+.app-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .message-container {
+    background-image: linear-gradient(#2b2c49, #b5b9ff);
+    height: 320px;
+    width: 400px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
